@@ -1,0 +1,203 @@
+*{
+    background-color: black;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    /* border: 10px solid white; */
+    text-align: center;
+    line-height: 200px;
+    font-weight: bold;
+    font-size: 2em;
+    display: inline-block;
+}
+.box4:hover{
+    background-color: yellow;
+    border-radius: 200px;
+}
+.box5:hover{
+    background-color: silver;
+}
+.box6:hover{
+    background-color: cadetblue;
+    border-radius: 200px;
+}
+.box7:hover{
+    background-color: fuchsia;
+    border-radius: 80px;
+}
+.box8:hover{
+    background-color: brown;
+    border-radius: 50px;
+}
+.box9:hover{
+    background-color: wheat;
+    border-radius: 100px;
+}
+.box10:hover{
+    background-color: cornflowerblue;
+    border-radius: 200px;
+}
+.box11:hover{
+    background-color: sandybrown;
+    border-radius: 150px;
+}
+.box12:hover{
+    background-color: red;
+    border-radius: 130px;
+}
+.box13:hover{
+    background-color: azure;
+    border-radius: 80px;
+}
+.box14:hover{
+    background-color: royalblue;
+    border-radius: 45px;
+}
+.box15:hover{
+    background-color: darkgreen;
+}
+.box16:hover{
+    background-color: darkcyan;
+    border-radius: 200px;
+}
+.box17:hover{
+    background-color: seagreen;
+    border-radius: 50px;
+}
+.box18:hover{
+    background-color: gold;
+    border-radius: 200px;
+}
+.box19:hover{
+    background-color: slategrey;
+    border-radius: 45px;
+}
+.box20:hover{
+    background-color: salmon;
+    border-radius: 45px;
+}
+.box21:hover{
+    background-color: teal;
+    border-radius: 45px;
+}
+.box22:hover{
+    background-color: royalblue;
+    border-radius: 200px;
+}
+.box23:hover{
+    background-color: royalblue;
+}
+.box24:hover{
+    background-color: indigo;
+    border-radius: 45px;
+}
+.box25:hover{
+    background-color: yellowgreen;
+    border-radius: 45px;
+}
+.box26:hover{
+    background-color: royalblue;
+    border-radius: 45px;
+}
+.box27:hover{
+    background-color: aquamarine;
+    border-radius: 45px;
+}
+.box28:hover{
+    background-color: sandybrown;
+    border-radius: 45px;
+}
+.box29:hover{
+    background-color: red;
+    border-radius: 45px;
+}
+.box30:hover{
+    background-color: blue;
+    border-radius: 45px;
+}
+
+
+
+
+.box31:hover{
+    background-color: teal;
+    border-radius: 45px;
+}
+.box32:hover{
+    background-color: royalblue;
+    border-radius: 200px;
+}
+.box33:hover{
+    background-color: royalblue;
+}
+.box34:hover{
+    background-color: indigo;
+    border-radius: 45px;
+}
+.box35:hover{
+    background-color: yellowgreen;
+    border-radius: 45px;
+}
+.box36:hover{
+    background-color: royalblue;
+    border-radius: 45px;
+}
+.box37:hover{
+    background-color: aquamarine;
+    border-radius: 45px;
+}
+.box38:hover{
+    background-color: sandybrown;
+    border-radius: 45px;
+}
+.box39:hover{
+    background-color: red;
+    border-radius: 45px;
+}
+.box40:hover{
+    background-color: blue;
+    border-radius: 45px;
+}
+
+
+.box41:hover{
+    background-color: sandybrown;
+    border-radius: 150px;
+}
+.box42:hover{
+    background-color: red;
+    border-radius: 130px;
+}
+.box43:hover{
+    background-color: azure;
+    border-radius: 80px;
+}
+.box44:hover{
+    background-color: royalblue;
+    border-radius: 45px;
+}
+.box45:hover{
+    background-color: darkgreen;
+}
+.box46:hover{
+    background-color: darkcyan;
+    border-radius: 200px;
+}
+.box47:hover{
+    background-color: seagreen;
+    border-radius: 50px;
+}
+.box48:hover{
+    background-color: gold;
+    border-radius: 200px;
+}
+.box49:hover{
+    background-color: slategrey;
+    border-radius: 45px;
+}
+.box50:hover{
+    background-color: salmon;
+    border-radius: 45px;
+}
+
